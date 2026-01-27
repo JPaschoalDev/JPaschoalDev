@@ -1,4 +1,4 @@
-# Olá, eu sou o [João Victor Paschoal]! 👋
+# Olá, eu sou o João Victor Paschoal! 👋
 
 ### 🚀 Sobre mim
 - 📊 Atualmente focado em **Análise de Dados** e **IA Industrial**.
