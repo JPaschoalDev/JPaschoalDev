@@ -1,33 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=João%20Victor%20Paschoal&fontSize=40&fontColor=fff&fontAlignY=35&desc=Desenvolvedor%20em%20formação%20%7C%20SENAI%20CTTI&descAlignY=55&descColor=a0aec0"/>
-</div>
 
-<br/>
+# Olá, eu sou o João Victor! 👋
 
-<div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/JPaschoalDev?style=for-the-badge&color=0d1117&labelColor=1a1a2e&logo=github)](https://github.com/JPaschoalDev)
-  ![Profile views](https://komarev.com/ghpvc/?username=JPaschoalDev&style=for-the-badge&color=1a1a2e)
+### Desenvolvedor em formação · SENAI CTTI · Minas Gerais 🇧🇷
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🧑‍💻 Sobre mim
 
-Olá! Sou o **João Victor**, estudante do curso **Técnico em Desenvolvimento de Sistemas** no **SENAI CTTI**. Apaixonado por tecnologia e em constante aprendizado, com foco em construir soluções organizadas, bem estruturadas e de qualidade.
+Sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no SENAI CTTI, apaixonado por tecnologia e em busca de construir soluções bem estruturadas e de qualidade.
 
-- 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** — SENAI CTTI
-- 🔭 Atualmente desenvolvendo projetos práticos com **Java** e **Python**
-- 🌱 Aprendendo sobre **orientação a objetos**, **arquitetura de software** e **boas práticas de código**
-- 🎯 Interesse principal: **Desenvolvimento de Sistemas**
-- 📍 Minas Gerais, Brasil
+Atualmente focado em **Java**, **Python** e **boas práticas de desenvolvimento de software**.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
+## 🛠️ Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -35,51 +24,26 @@ Olá! Sou o **João Victor**, estudante do curso **Técnico em Desenvolvimento d
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JPaschoalDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPaschoalDev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JPaschoalDev&theme=tokyonight&hide_border=true"/>
-</div>
-
 ---
 
 ## 📁 Projetos em Destaque
 
-<div align="center">
-
-[![Atividades SENAI](https://github-readme-stats.vercel.app/api/pin/?username=JPaschoalDev&repo=Atividade-Senai&theme=tokyonight&hide_border=true)](https://github.com/JPaschoalDev/Atividade-Senai)
-
-</div>
+| Projeto | Descrição | Tecnologia |
+|--------|-----------|------------|
+| [Desafio-SENAI-XGBost](https://github.com/JPaschoalDev/Desafio-SENAI-XGBost) | Modelo de ML usando XGBoost para prever atrasos em voos | Jupyter Notebook |
+| [Projeto-Fagulha-SENAI](https://github.com/JPaschoalDev/Projeto-Fagulha-SENAI) | Sistema Python para monitoramento automatizado de consumo energético em máquinas têxteis | Python |
+| [Atividade-Senai](https://github.com/JPaschoalDev/Atividade-Senai) | Atividades práticas do curso Técnico em Desenvolvimento de Sistemas | Java |
+| [Nexus-Academy](https://github.com/JPaschoalDev/Nexus-Academy) | Trabalho escolar | Java |
 
 ---
 
-## 📈 Jornada de Aprendizado
+## 📬 Contato
 
-```
-2025 - Início do curso Técnico em Desenvolvimento de Sistemas
-     └── Lógica de Programação
-     └── Introdução ao Python
-
-2026 - Módulo: Programação de Aplicativos
-     └── Java & Orientação a Objetos
-     └── Arquitetura em camadas (Model, Repository, Service, View)
-     └── Boas práticas: Javadoc, encapsulamento, SRP
-     └── Versionamento com Git & GitHub
-
-2026 → ... Continuando a jornada 🚀
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-paschoal-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaov.paschoal.75@gmail.com)
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer"/>
+  <sub>💙 Sempre aprendendo, sempre evoluindo.</sub>
 </div>
