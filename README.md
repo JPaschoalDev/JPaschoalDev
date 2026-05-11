@@ -1,49 +1,62 @@
+<!-- Header -->
 <div align="center">
 
-# Olá, eu sou o João Victor! 👋
-
-### Desenvolvedor em formação · SENAI CTTI · Minas Gerais 🇧🇷
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   João Paschoal  ·  Backend Developer                ║
+║   get shit done.                                     ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+### Sobre mim
 
-Sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no SENAI CTTI, apaixonado por tecnologia e em busca de construir soluções bem estruturadas e de qualidade.
+Desenvolvedor backend com foco em construir sistemas que funcionam de verdade — sem enrolação, sem over-engineering, sem desculpa.
 
-Atualmente focado em **Java**, **Python** e **boas práticas de desenvolvimento de software**.
-
----
-
-## 🛠️ Tecnologias
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+Meu stack principal gira em torno de **Java** e **Kotlin**, com banco de dados relacional na base de quase tudo que faço. Gosto de código limpo, arquitetura que faz sentido e soluções que sobrevivem ao teste da produção.
 
 ---
 
-## 📁 Projetos em Destaque
+### Stack
 
-| Projeto | Descrição | Tecnologia |
-|--------|-----------|------------|
-| [Desafio-SENAI-XGBost](https://github.com/JPaschoalDev/Desafio-SENAI-XGBost) | Modelo de ML usando XGBoost para prever atrasos em voos | Jupyter Notebook |
-| [Projeto-Fagulha-SENAI](https://github.com/JPaschoalDev/Projeto-Fagulha-SENAI) | Sistema Python para monitoramento automatizado de consumo energético em máquinas têxteis | Python |
-| [Atividade-Senai](https://github.com/JPaschoalDev/Atividade-Senai) | Atividades práticas do curso Técnico em Desenvolvimento de Sistemas | Java |
-| [Nexus-Academy](https://github.com/JPaschoalDev/Nexus-Academy) | Trabalho escolar | Java |
+| Linguagens | Dados |
+|---|---|
+| Java · Kotlin | SQL · PostgreSQL · MySQL |
 
 ---
 
-## 📬 Contato
+### Filosofia
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-paschoal-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaov.paschoal.75@gmail.com)
+> Código bom é aquele que resolve o problema.  
+> Código ótimo é aquele que continua resolvendo depois que você vai embora.
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JPaschoalDev&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPaschoalDev&layout=compact&hide_border=true&theme=default)
+
+</div>
+
+---
+
+### Contato
+
+Se quiser trocar ideia sobre projetos, código ou qualquer coisa:
+
+📩 joaov.paschoal.75@gmail.com
 
 ---
 
 <div align="center">
-  <sub>💙 Sempre aprendendo, sempre evoluindo.</sub>
+  <sub>feito sem firula · mantido com café</sub>
 </div>
