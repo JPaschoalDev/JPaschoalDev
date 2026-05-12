@@ -43,7 +43,6 @@ Se quiser falar sobre projetos, Java, ou qual o melhor inicial de Kanto:
 
 - 📧 **E-mail:** [joaov.paschoal.75@gmail.com](mailto:joaov.paschoal.75@gmail.com)
 - 🕊️ **Pombo Correio:** Pode enviar, mas o e-mail é mais rápido!
-- 🔗 **LinkedIn:** [Meu Perfil](https://www.linkedin.com/in/joaopaschoal) *(Se não tiver o link ainda, é uma boa colocar!)*
 
 ---
 
