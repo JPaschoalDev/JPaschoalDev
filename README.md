@@ -31,8 +31,8 @@ Quando o `build` finalmente dá sucesso, você me encontra:
 ### 📈 Meu Diário de Treinamento (GitHub Stats)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPaschoalDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de JP" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPaschoalDev&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=JPaschoalDev&theme=dracula&locale=pt_BR" alt="GitHub Streak" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPaschoalDev&theme=dracula" alt="Linguagens mais usadas" />
 </div>
 
 ---
