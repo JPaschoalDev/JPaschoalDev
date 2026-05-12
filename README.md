@@ -47,7 +47,7 @@ Se quiser falar sobre projetos, Java, ou qual o melhor inicial de Kanto:
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="100">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="150">
   <br>
-  <i>"Gotta Code 'Em All!"</i>
+  <b>"Gotta Code 'Em All!"</b>
 </p>
