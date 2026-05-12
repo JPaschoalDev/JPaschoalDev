@@ -1,62 +1,54 @@
-<!-- Header -->
+# Olá, eu sou o JP! 👋 (João Paschoal)
+
+### 👨‍💻 Desenvolvedor Full Stack em evolução... e Treinador Pokémon nas horas vagas.
+
+Nascido no mundo do **Java**, onde a complexidade é o que me move (sim, eu gosto do desafio!). Atualmente, estou mergulhando fundo no ecossistema Java, equilibrando o back-end robusto com a agilidade do **React**.
+
+---
+
+### 🛠️ Minha Pokedex Tecnológica (Stack)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+- 🔍 **Foco atual:** Me tornando um mestre em Java (Back e Front).
+- 🧠 **Superpoder:** Decifrar a complexidade do Java enquanto meu IntelliJ consome toda a RAM do PC (e eu amo isso!).
+- 💻 **IDE de Guerra:** IntelliJ IDEA (porque se não for pra usar 100% da CPU, eu nem abro).
+
+---
+
+### 🎮 Além do Código
+
+Quando o `build` finalmente dá sucesso, você me encontra:
+- 👾 Capturando Pokémons (tentando completar a Pokedex da vida real).
+- 📺 Assistindo animes ou jogando alguma coisa.
+- ☕ Provavelmente pensando em como otimizar um código que já funciona.
+
+---
+
+### 📈 Meu Diário de Treinamento (GitHub Stats)
+
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   João Paschoal  ·  Backend Developer                ║
-║   get shit done.                                     ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPaschoalDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPaschoalDev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
 
-### Sobre mim
+### 📩 Vamos trocar uma ideia?
 
-Desenvolvedor backend com foco em construir sistemas que funcionam de verdade — sem enrolação, sem over-engineering, sem desculpa.
+Se quiser falar sobre projetos, Java, ou qual o melhor inicial de Kanto:
 
-Meu stack principal gira em torno de **Java** e **Kotlin**, com banco de dados relacional na base de quase tudo que faço. Gosto de código limpo, arquitetura que faz sentido e soluções que sobrevivem ao teste da produção.
-
----
-
-### Stack
-
-| Linguagens | Dados |
-|---|---|
-| Java · Kotlin | SQL · PostgreSQL · MySQL |
+- 📧 **E-mail:** [joaov.paschoal.75@gmail.com](mailto:joaov.paschoal.75@gmail.com)
+- 🕊️ **Pombo Correio:** Pode enviar, mas o e-mail é mais rápido!
+- 🔗 **LinkedIn:** [Meu Perfil](https://www.linkedin.com/in/joaopaschoal) *(Se não tiver o link ainda, é uma boa colocar!)*
 
 ---
 
-### Filosofia
-
-> Código bom é aquele que resolve o problema.  
-> Código ótimo é aquele que continua resolvendo depois que você vai embora.
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JPaschoalDev&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPaschoalDev&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
-
-### Contato
-
-Se quiser trocar ideia sobre projetos, código ou qualquer coisa:
-
-📩 joaov.paschoal.75@gmail.com
-
----
-
-<div align="center">
-  <sub>feito sem firula · mantido com café</sub>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="100">
+  <br>
+  <i>"Gotta Code 'Em All!"</i>
+</p>
