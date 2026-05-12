@@ -1,4 +1,4 @@
-# Olá, eu sou o JP! 👋 (João Paschoal)
+# Olá, eu sou o João Paschoal!!
 
 ### 👨‍💻 Desenvolvedor Full Stack em evolução... e Treinador Pokémon nas horas vagas.
 
