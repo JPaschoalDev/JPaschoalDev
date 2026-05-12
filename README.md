@@ -22,7 +22,7 @@ Nascido no mundo do **Java**, onde a complexidade é o que me move (sim, eu gost
 ### 🎮 Além do Código
 
 Quando o `build` finalmente dá sucesso, você me encontra:
-- 👾 Capturando Pokémons (tentando completar a Pokedex da vida real).
+- 👾 Capturando Pokémons (tentando completar a Pokedex).
 - 📺 Assistindo animes ou jogando alguma coisa.
 - ☕ Provavelmente pensando em como otimizar um código que já funciona.
 
@@ -31,8 +31,8 @@ Quando o `build` finalmente dá sucesso, você me encontra:
 ### 📈 Meu Diário de Treinamento (GitHub Stats)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPaschoalDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPaschoalDev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPaschoalDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de JP" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPaschoalDev&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
 </div>
 
 ---
