@@ -41,6 +41,7 @@ Quando o `build` finalmente dá sucesso, você me encontra:
 
 Se quiser falar sobre projetos, Java, ou qual o melhor inicial de Kanto:
 
+- 💼 **LinkedIn:** [linkedin.com/in/joao-paschoal-dev](https://www.linkedin.com/in/joao-paschoal-dev)
 - 📧 **E-mail:** [joaov.paschoal.75@gmail.com](mailto:joaov.paschoal.75@gmail.com)
 - 🕊️ **Pombo Correio:** Pode enviar, mas o e-mail é mais rápido!
 
